@@ -8,7 +8,7 @@ def calculo_cuadrados_perfectos(n):
   for q in t:
     if sqrt(q) in t:
       s.append(q)
-    print(.format(n))
+    print( .format(n))
   for x in s:
     print(x)
 

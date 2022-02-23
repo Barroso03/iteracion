@@ -1,6 +1,6 @@
 # iteracion
 
-La direeción de nuestro repositorio es:(https://github.com/Barroso03/iteracion.git)
+La dirección de nuestro repositorio es:(https://github.com/Barroso03/iteracion.git)
 
 La dirección del replit es:(https://replit.com/@Barroso03/iteracion-4#.replit)
 
